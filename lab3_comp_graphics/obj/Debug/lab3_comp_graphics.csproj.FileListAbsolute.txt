@@ -1,0 +1,17 @@
+C:\Users\ilya_\source\repos\lab3_comp_graphics\bin\Debug\lab3_comp_graphics.exe.config
+C:\Users\ilya_\source\repos\lab3_comp_graphics\bin\Debug\lab3_comp_graphics.exe
+C:\Users\ilya_\source\repos\lab3_comp_graphics\bin\Debug\lab3_comp_graphics.pdb
+C:\Users\ilya_\source\repos\lab3_comp_graphics\bin\Debug\OpenTK.dll
+C:\Users\ilya_\source\repos\lab3_comp_graphics\bin\Debug\OpenTK.GLControl.dll
+C:\Users\ilya_\source\repos\lab3_comp_graphics\bin\Debug\OpenTK.pdb
+C:\Users\ilya_\source\repos\lab3_comp_graphics\bin\Debug\OpenTK.xml
+C:\Users\ilya_\source\repos\lab3_comp_graphics\bin\Debug\OpenTK.dll.config
+C:\Users\ilya_\source\repos\lab3_comp_graphics\bin\Debug\OpenTK.GLControl.xml
+C:\Users\ilya_\source\repos\lab3_comp_graphics\obj\Debug\lab3_comp_graphics.csproj.AssemblyReference.cache
+C:\Users\ilya_\source\repos\lab3_comp_graphics\obj\Debug\lab3_comp_graphics.Form1.resources
+C:\Users\ilya_\source\repos\lab3_comp_graphics\obj\Debug\lab3_comp_graphics.Properties.Resources.resources
+C:\Users\ilya_\source\repos\lab3_comp_graphics\obj\Debug\lab3_comp_graphics.csproj.GenerateResource.cache
+C:\Users\ilya_\source\repos\lab3_comp_graphics\obj\Debug\lab3_comp_graphics.csproj.CoreCompileInputs.cache
+C:\Users\ilya_\source\repos\lab3_comp_graphics\obj\Debug\lab3_com.F4458556.Up2Date
+C:\Users\ilya_\source\repos\lab3_comp_graphics\obj\Debug\lab3_comp_graphics.exe
+C:\Users\ilya_\source\repos\lab3_comp_graphics\obj\Debug\lab3_comp_graphics.pdb
